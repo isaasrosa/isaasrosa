@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá, me chamo Isabela! Tenho dezessete anos e estou iniciando minha jornada no ramo da tecnologia, estou interessada em aprender cada vez mais sobre diversas linguagens...
 
-<!--
-**isaasrosa/isaasrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Diploma em Programação Python**
+👨‍💻 Apaixonada por resolver problemas e construir soluções com código.
+📚 Explorando constantemente novas tecnologias e aprimorando minhas habilidades em linguagens de programação.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Habilidades
+
+* Python (Iniciante)
+* Versionamento: Git/GitHub
+* Banco de Dados: SQL, SQLite
+
+### 💼 Projetos em Destaque
+
+* [Projeto 1: Remake Starbucks land page](file:///D:/Projetos/Starbucks/landpage_remake.html)
+
+  * Recriei a pagina inicial do site do starbucks da gringa, nas linguagens de html e css.
+    
+* [Projeto 2: CalculadoraV2](file:///D:/Projetos/CalculadoraV2/index.html)
+
+  * Fiz a famosa calculadora padrão, comn as linguagens html,css e javascript.
+---
+
+### 📫 Entre em contato comigo:
+
+* Email: [isaarosa777@gmail.com](isaarosa777@gmail.com)
+* LinkedIn: linkedin.com/in/isabelarosa
+
