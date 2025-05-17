@@ -1,4 +1,7 @@
-# 👋 Olá, me chamo Isabela! Tenho dezessete anos e estou iniciando minha jornada no ramo da tecnologia, estou interessada em aprender cada vez mais sobre diversas linguagens...
+# 👋 Olá, me chamo Isabela!
+
+
+Tenho dezessete anos e estou iniciando minha jornada no ramo da tecnologia, estou interessada em aprender cada vez mais sobre diversas linguagens...
 
 🎓 **Diploma em Programação Python**
 👨‍💻 Apaixonada por resolver problemas e construir soluções com código.
